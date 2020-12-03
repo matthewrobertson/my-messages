@@ -1,0 +1,5 @@
+${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/AzureCommunication.framework
+${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/AzureCommunicationChat.framework
+${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/AzureCore.framework
+${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/InputBarAccessoryView.framework
+${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/MessageKit.framework

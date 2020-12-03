@@ -1,0 +1,6 @@
+${PODS_ROOT}/Target Support Files/Pods-MyMessages/Pods-MyMessages-frameworks.sh
+${BUILT_PRODUCTS_DIR}/AzureCommunication/AzureCommunication.framework
+${BUILT_PRODUCTS_DIR}/AzureCommunicationChat/AzureCommunicationChat.framework
+${BUILT_PRODUCTS_DIR}/AzureCore/AzureCore.framework
+${BUILT_PRODUCTS_DIR}/InputBarAccessoryView/InputBarAccessoryView.framework
+${BUILT_PRODUCTS_DIR}/MessageKit/MessageKit.framework
